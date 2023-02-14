@@ -1,0 +1,10 @@
+data={
+"type": "FeatureCollection",
+"name": "swedish_covers_data",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "lat": 59.3413882157, "lng": 18.073635882200001, "Place": "Stockholm", "Country": "Sweden", "Language": "Swedish", "Year": 1957, "Translator": "Ingegerd von Tell", "Title": "Jane Eyre", "Publisher": "Natur och kultur", "Address": "-", "Comments": "Von Tell's translation was first published in 1943", "img": "https://raw.githubusercontent.com/digitalkoine/swedish_storymap/main/swedish/1957%20Von%20Tell.jpg" }, "geometry": { "type": "Point", "coordinates": [ 18.073635882200001, 59.3413882157 ] } },
+{ "type": "Feature", "properties": { "lat": 59.337677891200002, "lng": 18.042179467499999, "Place": "Stockholm", "Country": "Sweden", "Language": "Swedish", "Year": 2005, "Translator": "Birgit Edlund and Gun-Britt Sundstrum", "Title": "Jane Eyre", "Publisher": "Bonnier", "Address": "-", "Comments": "Sundström's translation was first published in 1999", "img": "https://raw.githubusercontent.com/digitalkoine/swedish_storymap/main/swedish/2005%20_Edlund_Sundstrom.jpg" }, "geometry": { "type": "Point", "coordinates": [ 18.042179467499999, 59.337677891200002 ] } },
+{ "type": "Feature", "properties": { "lat": 59.317961090499999, "lng": 18.067434218199999, "Place": "Stockholm", "Country": "Sweden", "Language": "Swedish", "Year": 2014, "Translator": "Ingegerd von Tell", "Title": "Jane Eyre", "Publisher": "Modernista", "Address": "-", "Comments": "Von Tell's translation was first published in 1943", "img": "https://raw.githubusercontent.com/digitalkoine/swedish_storymap/main/swedish/2014%20von%20Tell.jpg" }, "geometry": { "type": "Point", "coordinates": [ 18.067434218199999, 59.317961090499999 ] } }
+]
+}
